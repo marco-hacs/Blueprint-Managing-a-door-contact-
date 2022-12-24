@@ -5,6 +5,7 @@ In questo progetto cercho di sfruttare un sensor porta per più utilizzi.
 L'automazione è divisa in due parti: 
 1)  Accende una luce quando si apre la porta per un tempo personalizzabile rispettando delle regole:
 - Che sia topo il tramonto
+- Puoi inserire switch e lisght
 - La luce viene accesa/spenta solo se lo stato iniziale non era on
 - La luce viene spenta dopo un tempo personalizzabile che inizia dal momento in cui viene chiusa la porta
 
@@ -12,6 +13,7 @@ L'automazione è divisa in due parti:
 - Puoi decidere se abilitare notifica push.
 - Puoi decidere se abilitare notifica TTS.
 - Puoi decidere se abilitare notifica Alexa.
+- Puoi personalizzare il testo della notifica.
 
 ### Requisiti:
 
