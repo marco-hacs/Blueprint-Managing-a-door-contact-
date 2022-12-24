@@ -1,3 +1,5 @@
+`- Version: 1.0 -`
+
 # Managing a door contact
 
 In questo progetto cercho di sfruttare un sensor porta per più utilizzi. 
