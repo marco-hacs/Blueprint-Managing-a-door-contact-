@@ -2,27 +2,28 @@
 
 # Managing a door contact
 
-In questo progetto cercho di sfruttare un sensor porta per più utilizzi. 
+In this project I try to exploit a sensor port for multiple uses. 
 
-L'automazione è divisa in due parti: 
-1)  Accende una luce quando si apre la porta per un tempo personalizzabile rispettando delle regole:
-- Che sia topo il tramonto
-- Puoi inserire switch e lisght
-- La luce viene accesa/spenta solo se lo stato iniziale non era on
-- La luce viene spenta dopo un tempo personalizzabile che inizia dal momento in cui viene chiusa la porta
+Automation is divided into two parts: 
+1)  Turns on a light when the door is opened for a customizable time by following rules:
+- Let it be after sunset
+- You can insert switch and light
+- The light is turned on/off only if the initial state was not on
+- The light is turned off after a customizable time that starts from the moment the door is closed
 
-2) Ricevere una avviso nel caso la porta fosse rimasta aperta per un tempo personalizzabile:
-- Puoi decidere se abilitare notifica push.
-- Puoi decidere se abilitare notifica TTS.
-- Puoi decidere se abilitare notifica Alexa.
-- Puoi personalizzare il testo della notifica.
+2) Receive an alert in case the door was left open for a customizable time:
+- You can decide whether to enable push notification.
+- You can decide whether to enable TTS notification.
+- You can decide whether to enable Alexa notification.
+- You can customize the text of the notification.
+- You can opt out of receiving alerts by not enabling any of the notify services
 
-### Requisiti:
+### Requirements:
 
-Per poter utilizzare il progetto:
-- Il sensore porta deve essere *device_class: door*.
-- Avere almeno un'entità *media_player*.
-- Almeno un dispositivo deve eseguire l'*app ufficiale* Home Assistant per ricevere le notifiche.
+In order to use the project:
+- The door sensor must be *device_class: door*.
+- Having at least one entity *media_player*.
+- At least one device must run the *official* Home Assistant app to receive notifications.
 
 ### Installazione
 
