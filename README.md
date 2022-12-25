@@ -22,8 +22,6 @@ Automation is divided into two parts:
 
 In order to use the project:
 - The door sensor must be *device_class: door*.
-- Having at least one entity *media_player*.
-- At least one device must run the *official* Home Assistant app to receive notifications.
 
 ### Installazione
 
