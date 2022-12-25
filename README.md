@@ -21,7 +21,8 @@ Automation is divided into two parts:
 ### Requirements:
 
 In order to use the project:
-- The door sensor must be *device_class: door*.
+- The door sensor must be *device_class: door*: If the senor does not have the device_class indicated, you can set it from *settings-devices and services-entities-select entity and set port to show-like* 
+
 
 ### Installazione
 
