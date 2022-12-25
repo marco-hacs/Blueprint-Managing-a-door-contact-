@@ -117,6 +117,9 @@ mode: restart
 variables:
   light: !input light
   porta: !input door
+  tts: !input tts
+  push: !input push
+  alexa: !input alexa
 trigger:
   - platform: state
     entity_id: !input door
