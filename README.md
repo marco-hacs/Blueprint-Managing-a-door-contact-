@@ -28,4 +28,4 @@ In order to use the project:
 
 To be able to install the blueprint you can import it tramitè the dedicated button or alternatively you can compiare the <i>[file](https://github.com/marco-hacs/Managing-a-door-contact-/blob/main/managing_a_door_contact.yaml)</i> in the path \config\blueprints\automation 
 
-<a href="https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fmarco-hacs%2FManaging-a-door-contact-%2Fblob%2Fmain%2Fmanaging_a_door_contact.yaml" target="_blank"><img src="https://my.home-assistant.io/badges/blueprint_import.svg" alt="Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled." /></a>
+[![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fmarco-hacs%2FManaging-a-door-contact-%2Fblob%2Fmain%2Fmanaging_a_door_contact.yaml)
