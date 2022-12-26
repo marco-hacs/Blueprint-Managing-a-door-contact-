@@ -26,4 +26,4 @@ In order to use the project:
 
 ### Installation
 
-Per poter installare il blueprint puoi importarlo tramitè il tasto deicato o in alternativa puoi compiare il <i>[file](https://github.com/marco-hacs/Managing-a-door-contact-/blob/main/managing_a_door_contact.yaml)</i> nella directory \config\blueprints\automation 
+To be able to install the blueprint you can import it tramitè the dedicated button or alternatively you can compiare the <i>[file](https://github.com/marco-hacs/Managing-a-door-contact-/blob/main/managing_a_door_contact.yaml)</i> in the path \config\blueprints\automation 
