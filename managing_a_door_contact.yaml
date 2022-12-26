@@ -50,7 +50,7 @@ blueprint:
       selector:
         entity:
           domain: binary_sensor
-          #device_class: door
+          device_class: door
     time_door:
       name: Open door warning time
       description: Waiting time before receiving notice that the door has been left open
